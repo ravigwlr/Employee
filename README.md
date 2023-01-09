@@ -1,5 +1,5 @@
 # Employee
-#Usage
+Usage
 This is not a package - it's a full Laravel project that you should use as a starter boilerplate, and then add your own custom functionality.
 
 Clone the repository with git clone
